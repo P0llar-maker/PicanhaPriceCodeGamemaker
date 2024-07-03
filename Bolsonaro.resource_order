@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_button_jump","order":2,"path":"objects/obj_button_jump/obj_button_jump.yy",},
+    {"name":"obj_snd_menu","order":1,"path":"objects/obj_snd_menu/obj_snd_menu.yy",},
+    {"name":"snd_hino","order":1,"path":"sounds/snd_hino/snd_hino.yy",},
+    {"name":"spr_bg_placaio","order":1,"path":"sprites/spr_bg_placaio/spr_bg_placaio.yy",},
+    {"name":"spr_credits","order":7,"path":"sprites/spr_credits/spr_credits.yy",},
+    {"name":"spr_jump","order":8,"path":"sprites/spr_jump/spr_jump.yy",},
+    {"name":"spr_sky","order":5,"path":"sprites/spr_sky/spr_sky.yy",},
+    {"name":"spr_sprite","order":4,"path":"sprites/spr_sprite/spr_sprite.yy",},
+    {"name":"Sprite18","order":6,"path":"sprites/Sprite18/Sprite18.yy",},
+  ],
+}
